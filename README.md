@@ -1,5 +1,5 @@
 # Project Overview
-
+Terasology is a free and open-source survival game similar to Minecraft. We want to aid the development of one of the Terasology organization's major modules: Light & Shadow.
 [Proposal](https://github.com/CIS-SoftwareDesign-S21/projects-feedback-section-02-letarte-mw-2pm/issues/13)
 [Team Trello Board](https://trello.com/b/ntVTP37Z/minecraft-lookalike)
 
@@ -26,3 +26,8 @@ After a brief stretch of playing Terasology’s core gameplay mode, he is lookin
 Dylan, 20, is a college student from Oregon. Dylan enjoys playing PC games in his spare time, but doesn't necessarily have an advanced tech background. He's a college student looking for a fun, free to play game, but he's unfamiliar with the survival genre and games like Minecraft. For his free time from school on weekends, he's looking into Terasology as a potential game to download.
 
 Terasology has both a singleplayer experience as well as a multiplayer experience to become invested in. As someone who is new to the genre, there is plenty of documentation and in game resoureces to make Terasology beginner friendly, and therefore a great place to start with the entire survival genre. Aside from this, Dylan could also recruit other friends his age with similar backgrounds to play this game online together through the multiplayer experience. Terasology is also being updated quite a bit as time goes on, so there could be new features added to the game that this user is looking for.
+
+### Persona 4
+
+# Backlog/Feature List
+We reached out to the development community on Discord and one of the Core Team Members niruandaleth suggested we "pick any existing issues or write up issues based on items in the gameplay trello board." Therefore our backlog will be the issues present on both the [Light & Shadow Github Issues Page](https://github.com/Terasology/LightAndShadow/issues) and the [Light & Shadow pane of the Terasology oranization's "The Gameplay Template To Rule Them All" Trello board.](https://trello.com/b/QfaZMGMa/the-gameplay-template-to-rule-them-all). 
