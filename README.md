@@ -1,6 +1,8 @@
 # Project Overview
-Terasology is a free and open-source survival game similar to Minecraft. We want to aid the development of one of the Terasology organization's major modules: Light & Shadow.
+[Terasology](https://github.com/MovingBlocks/Terasology) is a free and open-source survival game similar to Minecraft. We want to aid the development of one of the Terasology organization's major modules: [Light & Shadow](https://github.com/Terasology/LightAndShadow).
+
 [Proposal](https://github.com/CIS-SoftwareDesign-S21/projects-feedback-section-02-letarte-mw-2pm/issues/13)
+
 [Team Trello Board](https://trello.com/b/ntVTP37Z/minecraft-lookalike)
 
 # Our Vision
