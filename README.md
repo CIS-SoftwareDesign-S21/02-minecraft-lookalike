@@ -21,3 +21,9 @@ Some of his college friends play Terasology on weekends. Reggie finds survival g
 Mike, a 16 year old high school student from Philadelphia, is an avid survival game player. Ever since he was young, he has always enjoyed playing video games with his friends and finding the next best game that the market has to offer. As a high school student, Mike does not have much money to his name, so he enjoys Terasology as it is free for all players. 
 
 After a brief stretch of playing Terasology’s core gameplay mode, he is looking to branch out into the world of modules and discovers Light and Shadow. Because he is new to this game mode, he encounters some difficulties in learning as the game does not offer much in terms of direction for newcomers. Mike still wants to learn about Light and Shadow, and he would benefit greatly from some simple, straightforward tutorials in the game that would start him and his friends off on the right foot. 
+
+### Dylan, a college student
+
+Dylan, 20, is a college student from Oregon. Dylan enjoys playing PC games in his spare time, but doesn't necessarily have an advanced tech background. He's a college student looking for a fun, free to play game, but he's unfamiliar with the survival genre and games like Minecraft. For his free time from school on weekends, he's looking into Terasology as a potential game to download.
+
+Terasology has both a singleplayer experience as well as a multiplayer experience to become invested in. As someone who is new to the genre, there is plenty of documentation and in game resoureces to make Terasology beginner friendly, and therefore a great place to start with the entire survival genre. Aside from this, Dylan could also recruit other friends his age with similar backgrounds to play this game online together through the multiplayer experience. Terasology is also being updated quite a bit as time goes on, so there could be new features added to the game that this user is looking for.
