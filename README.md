@@ -10,7 +10,7 @@ Link to Trello Board: https://trello.com/b/ntVTP37Z/minecraft-lookalike
 
 ## Personas
 
-#Reggie, an art teacher
+# Reggie, an art teacher
 
 Reggie, 32, teaches art at a middle school in rural New Jersey. He also hosts a board game club for the kids after school. No kids, but he's engaged to his girlfriend of 4 years.  His favorite movies are Donnie Darko and The Nightmare Before Christmas. Reggie's fairly goth but he keeps his appearance pretty neutral during teaching hours. He enjoys playing games on the weekend, mostly single player games, but sometimes he'll pick up a multiplayer game to play with his college friends if there isn't a big startup cost (art teachers get paid next to nothing).
 
